@@ -1,4 +1,6 @@
 # MHW_Gerardo_Fix
+Complete all special assignments before applying the fix. It will mess up Jho, FFXIV Kulu and Behe quests if you don't.
+
 Fixes the issues with Geralt not spawning if using the hub mod.
  * Save on the Research Base.
  * Make a backup of your save.
